@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jul 12 09:43:29 WAT 2022","Tue Jul 12 09:44:00 WAT 2022","30506","","","","","","Saisir username user et mot de passe bitanmi",""
+"passed","Tue Jul 12 09:44:25 WAT 2022","Tue Jul 12 09:44:50 WAT 2022","25641","","","","","","Connexion en tant que admin et envoie un message",""
+"passed","Tue Jul 12 09:44:00 WAT 2022","Tue Jul 12 09:44:25 WAT 2022","24989","","","","","","je suis dans Moodle et je click sur le boutton de déconnexion",""
